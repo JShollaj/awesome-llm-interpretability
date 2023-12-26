@@ -29,6 +29,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 13. [Inseq](https://github.com/inseq-team/inseq) - Interpretability for sequence generation models.
 14. [Neuron Viewer](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html) - Tool for viewing neuron activations and explanations.
 15. [LLM Visualization](https://bbycroft.net/llm) - Visualizing LLMs in low level.
+16. [Vanna](https://github.com/vanna-ai/vanna) - Abstractions to use RAG to generate SQL with any LLM
 
 ---
 
