@@ -76,6 +76,9 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 38. [The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets](https://arxiv.org/abs/2310.06824) - This paper investigates the representation of truth in Large Language Models (LLMs) using true/false datasets.
 39. [Interpretability at Scale: Identifying Causal Mechanisms in Alpaca](https://arxiv.org/abs/2305.08809) - This study presents Boundless Distributed Alignment Search (Boundless DAS), an advanced method for interpreting LLMs like Alpaca.
 40. [Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405) - Introduces Representation Engineering (RepE), a novel approach for enhancing AI transparency, focusing on high-level representations rather than neurons or circuits.
+41. [Explaining black box text modules in natural language with language models](https://arxiv.org/abs/2305.09863) - Natural language explanations for LLM attention heads, evaluated using synthetic text
+42. [N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models](https://arxiv.org/abs/2304.12918) - Explain each LLM neuron as a graph
+43. [Augmenting Interpretable Models with LLMs during Training](https://arxiv.org/abs/2209.11799) - Use LLMs to build interpretable classifiers of text data
 
 ---
 
@@ -91,6 +94,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 7. [Causal Scrubbing: a method for rigorously testing interpretability hypotheses [Redwood Research]](https://www.lesswrong.com/posts/JvZhhzycHu2Yd57RN/causal-scrubbing-a-method-for-rigorously-testing) - Introduces causal scrubbing, a method for evaluating the quality of mechanistic interpretations in neural networks.
 8. [A circuit for Python docstrings in a 4-layer attention-only transformer](https://www.lesswrong.com/posts/u6KXXmKFbXfWzoAXn/a-circuit-for-python-docstrings-in-a-4-layer-attention-only) - Proposes the Quantization Model for explaining neural scaling laws in neural networks.
 9. [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827) - Examines a specific neural circuit within a 4-layer transformer model responsible for generating Python docstrings.
+10. [Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks](https://arxiv.org/abs/2207.13243) - Survey on mechanistic interpretability
 
 ---
 
