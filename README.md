@@ -104,5 +104,5 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 ---
 
 ## Contributing and Collaborating
-Please see [CONTRIBUTING](https://github.com/your-username/awesome-llm-interpretability/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/your-username/awesome-llm-interpretability/blob/master/CODE-OF-CONDUCT.md) for details.
+Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretability/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/JShollaj/awesome-llm-interpretability/blob/master/CODE-OF-CONDUCT.md) for details.
 
