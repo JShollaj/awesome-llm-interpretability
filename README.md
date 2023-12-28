@@ -30,6 +30,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 14. [Neuron Viewer](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html) - Tool for viewing neuron activations and explanations.
 15. [LLM Visualization](https://bbycroft.net/llm) - Visualizing LLMs in low level.
 16. [Vanna](https://github.com/vanna-ai/vanna) - Abstractions to use RAG to generate SQL with any LLM
+17. [Copy Suppression](https://copy-suppression.streamlit.app/) - Designed to help explore different prompts for GPT-2 Small, as part of a research project regarding copy-suppression in LLMs.
 
 ---
 
