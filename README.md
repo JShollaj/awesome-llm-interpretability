@@ -82,7 +82,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 41. [Explaining black box text modules in natural language with language models](https://arxiv.org/abs/2305.09863) - Natural language explanations for LLM attention heads, evaluated using synthetic text
 42. [N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models](https://arxiv.org/abs/2304.12918) - Explain each LLM neuron as a graph
 43. [Augmenting Interpretable Models with LLMs during Training](https://arxiv.org/abs/2209.11799) - Use LLMs to build interpretable classifiers of text data
-
+44. [ChainPoll: A High Efficacy Method for LLM Hallucination Detection](https://www.rungalileo.io/blog/chainpoll) - ChainPoll, a novel hallucination detection methodology that substantially outperforms existing alternatives, and RealHall, a carefully curated suite of benchmark datasets for evaluating hallucination detection metrics proposed in recent literature.
 ---
 
 ### LLM Interpretability Articles
