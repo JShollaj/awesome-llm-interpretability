@@ -110,6 +110,11 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 
 ---
 
+### LLM Survey Paper
+*Survey Papers for LLM.*
+1. [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223) - . This survey paper provides
+an up-to-date review of the literature on LLMs, which can be a useful resource for both researchers and engineers..
+
 ## Contributing and Collaborating
 Please see [CONTRIBUTING](https://github.com/JShollaj/awesome-llm-interpretability/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/JShollaj/awesome-llm-interpretability/blob/master/CODE-OF-CONDUCT.md) for details.
 
