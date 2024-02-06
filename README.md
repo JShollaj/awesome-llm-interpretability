@@ -40,11 +40,12 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 ### LLM Interpretability Papers
 *Academic and industry papers on LLM interpretability.*
 
+1. [Rethinking Interpretability in the Era of Large Language Models](https://arxiv.org/pdf/2402.01761.pdf) - Survey article specifically covering (1) interpreting LLMs and (2) using LLMs for interpretability tasks
 1. [Interpretability Illusions in the Generalization of Simplified Models](https://arxiv.org/abs/2312.03656) – Shows how interpretability methods based on simplied models (e.g. linear probes etc) can be prone to generalisation illusions. 
-1. [Self-Influence Guided Data Reweighting for Language Model Pre-training](https://arxiv.org/abs/2311.00913)] - An application of training data attribution methods to re-weight training data and improve performance. 
+1. [Self-Influence Guided Data Reweighting for Language Model Pre-training](https://arxiv.org/abs/2311.00913) - An application of training data attribution methods to re-weight training data and improve performance. 
 1. [Data Similarity is Not Enough to Explain Language Model Performance](https://aclanthology.org/2023.emnlp-main.695/) - Discusses the limits of embedding models to explain data effective selection. 
-1. [Post Hoc Explanations of Language Models Can Improve Language Models](https://arxiv.org/pdf/2305.11426.pdf)] - Evaluates language-model generated explanations ability to also improve model quality.
-1. [Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models](https://arxiv.org/abs/2301.04213), [Tweet Summary](https://twitter.com/peterbhase/status/1613573825932697600)] (NeurIPS 2023 Spotlight) - highlights the limits of Causal Tracing: how a fact is stored in an LLM can be changed by editing weights in a different location than where Causal Tracing suggests.
+1. [Post Hoc Explanations of Language Models Can Improve Language Models](https://arxiv.org/pdf/2305.11426.pdf) - Evaluates language-model generated explanations ability to also improve model quality.
+1. [Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models](https://arxiv.org/abs/2301.04213), [Tweet Summary](https://twitter.com/peterbhase/status/1613573825932697600) (NeurIPS 2023 Spotlight) - highlights the limits of Causal Tracing: how a fact is stored in an LLM can be changed by editing weights in a different location than where Causal Tracing suggests.
 1. [Finding Neurons in a Haystack: Case Studies with Sparse Probing](https://arxiv.org/abs/2305.01610) - Explores the representation of high-level human-interpretable features within neuron activations of large language models (LLMs).
 1. [Copy Suppression: Comprehensively Understanding an Attention Head](https://arxiv.org/abs/2310.04625) - Investigates a specific attention head in GPT-2 Small, revealing its primary role in copy suppression.
 1. [Linear Representations of Sentiment in Large Language Models](https://arxiv.org/abs/2310.15154) - Shows how sentiment is represented in Large Language Models (LLMs), finding that sentiment is linearly represented in these models.
@@ -89,6 +90,8 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models](https://arxiv.org/abs/2304.12918) - Explain each LLM neuron as a graph
 1. [Augmenting Interpretable Models with LLMs during Training](https://arxiv.org/abs/2209.11799) - Use LLMs to build interpretable classifiers of text data
 1. [ChainPoll: A High Efficacy Method for LLM Hallucination Detection](https://www.rungalileo.io/blog/chainpoll) - ChainPoll, a novel hallucination detection methodology that substantially outperforms existing alternatives, and RealHall, a carefully curated suite of benchmark datasets for evaluating hallucination detection metrics proposed in recent literature.
+1. [In-Context Language Learning: Architectures and Algorithms](https://arxiv.org/pdf/2401.12973.pdf) - Study in-context learning of languages and find evidence for "n-gram heads", higher-order variants of previously seen "induction heads"
+1. [Universal Neurons in GPT2 Language Models](https://arxiv.org/abs/2401.12181) - Study the universality of neurons across GPT2 models trained from different initial random seeds
 
 ---
 
