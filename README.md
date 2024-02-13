@@ -89,6 +89,8 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models](https://arxiv.org/abs/2304.12918) - Explain each LLM neuron as a graph
 1. [Augmenting Interpretable Models with LLMs during Training](https://arxiv.org/abs/2209.11799) - Use LLMs to build interpretable classifiers of text data
 1. [ChainPoll: A High Efficacy Method for LLM Hallucination Detection](https://www.rungalileo.io/blog/chainpoll) - ChainPoll, a novel hallucination detection methodology that substantially outperforms existing alternatives, and RealHall, a carefully curated suite of benchmark datasets for evaluating hallucination detection metrics proposed in recent literature.
+2. [From Understanding to Utilization: A Survey on Explainability for Large Language Models](https://arxiv.org/abs/2401.12874) - A survey delves into the burgeoning field of explainability for Large Language Models (LLMs), a critical yet challenging aspect of natural language processing.
+3. [Explainability for Large Language Models: A Survey](https://arxiv.org/abs/2309.01029). - A survey categorizes techniques based on the training paradigms of LLMs: traditional fine-tuning-based paradigm and prompting-based paradigm. 
 
 ---
 
