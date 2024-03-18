@@ -18,6 +18,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [Comgra](https://github.com/FlorianDietz/comgra) - Comgra helps you analyze and debug neural networks in pytorch.
 1. [Pythia](https://github.com/EleutherAI/pythia) - Interpretability analysis to understand how knowledge develops and evolves during training in autoregressive transformers.
 1. [Phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+1. [Floom](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 1. [Automated Interpretability](https://github.com/openai/automated-interpretability) - Code for automatically generating, simulating, and scoring explanations of neuron behavior.
 1. [Fmr.ai](https://github.com/BizarreCake/fmr.ai) - AI interpretability and explainability platform.
 1. [Attention Analysis](https://github.com/clarkkev/attention-analysis) - Analyzing attention maps from BERT transformer.
