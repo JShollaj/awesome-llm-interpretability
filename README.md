@@ -34,6 +34,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [Copy Suppression](https://copy-suppression.streamlit.app/) - Designed to help explore different prompts for GPT-2 Small, as part of a research project regarding copy-suppression in LLMs.
 1. [TransformerViz](https://transformervis.github.io/transformervis/) - Interative tool to visualize transformer model by its latent space.
 1. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) - A Library for Mechanistic Interpretability of Generative Language Models.
+1. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) - A carefully compiled list that summarizes the diverse functions of the attention heads.
 
 ---
 
