@@ -36,6 +36,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [TransformerViz](https://transformervis.github.io/transformervis/) - Interative tool to visualize transformer model by its latent space.
 1. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) - A Library for Mechanistic Interpretability of Generative Language Models.
 1. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) - A carefully compiled list that summarizes the diverse functions of the attention heads.
+1. [Activation-Steering](https://github.com/IBM/activation-steering) - A documented re-implementation of activation steering and variants.
 
 ---
 
@@ -91,7 +92,8 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models](https://arxiv.org/abs/2304.12918) - Explain each LLM neuron as a graph
 1. [Augmenting Interpretable Models with LLMs during Training](https://arxiv.org/abs/2209.11799) - Use LLMs to build interpretable classifiers of text data
 1. [ChainPoll: A High Efficacy Method for LLM Hallucination Detection](https://www.rungalileo.io/blog/chainpoll) - ChainPoll, a novel hallucination detection methodology that substantially outperforms existing alternatives, and RealHall, a carefully curated suite of benchmark datasets for evaluating hallucination detection metrics proposed in recent literature.
-1. [A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task](https://arxiv.org/abs/2402.11917) - Identifies backward chaining circuits in a transformer trained to perform pathfinding in a tree. 
+1. [A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task](https://arxiv.org/abs/2402.11917) - Identifies backward chaining circuits in a transformer trained to perform pathfinding in a tree.
+1. [Programming Refusal with Conditional Activation Steering](https://arxiv.org/abs/2409.05907) - Proposes that steering vectors can represent (1) the behavior of LLM and (2) the condition that LLM is put in.
 
 ---
 
