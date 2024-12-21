@@ -36,6 +36,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [TransformerViz](https://transformervis.github.io/transformervis/) - Interative tool to visualize transformer model by its latent space.
 1. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) - A Library for Mechanistic Interpretability of Generative Language Models.
 1. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) - A carefully compiled list that summarizes the diverse functions of the attention heads.
+1. [ecco](https://github.com/jalammar/ecco) - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 
 ---
 
