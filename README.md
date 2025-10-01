@@ -37,6 +37,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) - A Library for Mechanistic Interpretability of Generative Language Models.
 1. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) - A carefully compiled list that summarizes the diverse functions of the attention heads.
 1. [ecco](https://github.com/jalammar/ecco) - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
+1. [Hyperprobe](https://github.com/Ipazia-AI/hyperprobe) - A Python library implementing a new paradigm for decoding LLM vector space into human-interpretable features
 
 ---
 
@@ -94,8 +95,8 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [ChainPoll: A High Efficacy Method for LLM Hallucination Detection](https://www.rungalileo.io/blog/chainpoll) - ChainPoll, a novel hallucination detection methodology that substantially outperforms existing alternatives, and RealHall, a carefully curated suite of benchmark datasets for evaluating hallucination detection metrics proposed in recent literature.
 1. [A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task](https://arxiv.org/abs/2402.11917) - Identifies backward chaining circuits in a transformer trained to perform pathfinding in a tree.
 1. [Detecting Local Insights from Global Labels: Supervised & Zero-Shot Sequence Labeling via a Convolutional Decomposition](https://doi.org/10.1162/coli_a_00416) Introduces instance-based, metric-learner approximations of neural network models and hard-attention mechanisms that can be constructed with task-specific inductive biases for effective semi-supervised learning (i.e., feature detection). These mechanisms combine to yield effective methods for interpretability-by-exemplar over the representation space of neural models.
-1. [Similarity-Distance-Magnitude Universal Verification](https://arxiv.org/abs/2502.20167) Introduces SDM activation functions, SDM calibration, and SDM networks, which are neural networks (e.g., LLMs) with uncertainty-aware verification and interpretability-by-exemplar as intrinsic properties. See the blog post ["The Determinants of Controllable AGI"](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume5/volume5.pdf) for a high-level overview of the broader implications. 
-
+1. [Similarity-Distance-Magnitude Universal Verification](https://arxiv.org/abs/2502.20167) Introduces SDM activation functions, SDM calibration, and SDM networks, which are neural networks (e.g., LLMs) with uncertainty-aware verification and interpretability-by-exemplar as intrinsic properties. See the blog post ["The Determinants of Controllable AGI"](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume5/volume5.pdf) for a high-level overview of the broader implications.
+1. [Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures](https://doi.org/10.48550/arXiv.2509.25045) This work combines symbolic representations and neural probing to introduce Hyperdimensional Probe, a new paradigm for decoding LLM vector space into human-interpretable features, consistently extracting meaningful concepts across models and inputs.
 ---
 
 ### LLM Interpretability Articles
