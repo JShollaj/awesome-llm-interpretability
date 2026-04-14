@@ -12,6 +12,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
     - [Groups](#llm-interpretability-groups)
 
 ### LLM Interpretability Tools
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 *Tools and libraries for LLM interpretability and analysis.*
 
 1. [The Learning Interpretability Tool](https://pair-code.github.io/lit/) - an open-source platform for visualization and understanding of ML models, supports classification, refression, and generative models (text & image data); includes saliency methods, attention attribution, counter-facturals, TCAV, embedding visualizations, and facets style data analysis.
