@@ -100,6 +100,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [Unveiling LLMs: The Evolution of Latent Representations in a Dynamic Knowledge Graph](https://openreview.net/forum?id=dWYRjT501w) A framework based on the technique of activation patching to represent the factual knowledge embedded in the vector space of LLMs as dynamic knowledge graphs.
 1. [DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness](https://arxiv.org/abs/2601.14210) - Trains a lightweight probe on LLM intermediate hidden states to detect hallucinations, exploiting uncertainty signals encoded in middle layers that are lost in the final token projection.
 1. [Phase Transitions in Large Language Models and the O(N) Model](https://arxiv.org/abs/2501.16241) - Recasts the Transformer as an O(N) spin model from statistical physics, finds two phase transitions (one in generation temperature, one in parameter count), and observes that models above ~7B parameters recognize when they are producing nonsense.
+1. [Token Thermodynamics](https://doi.org/10.5281/zenodo.23219064) - Shows that softmax sampling is exactly a Boltzmann distribution, derives a closed-form melting temperature for the next-token distribution across 12 models, and tests it as a hallucination signal.
 
 ---
 
