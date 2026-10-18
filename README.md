@@ -12,6 +12,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
     - [Groups](#llm-interpretability-groups)
 
 ### LLM Interpretability Tools
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — capture the real LLM request/response stream and replay it offline.
 *Tools and libraries for LLM interpretability and analysis.*
 
 1. [The Learning Interpretability Tool](https://pair-code.github.io/lit/) - an open-source platform for visualization and understanding of ML models, supports classification, refression, and generative models (text & image data); includes saliency methods, attention attribution, counter-facturals, TCAV, embedding visualizations, and facets style data analysis.
