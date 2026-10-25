@@ -40,6 +40,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [ecco](https://github.com/jalammar/ecco) - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 1. [verified-circuits](https://github.com/brian-naughton/verified-circuits) - End-to-end, independently-checkable mechanistic interpretability for a learned tiny transformer (Dyck-1): a Lean 4 proof of circuit↔spec equivalence plus a torch-free interval-arithmetic certificate that the model implements the circuit on every input — a re-verifiable Spec == Circuit == Model over a complete finite task.
 1. [Circuit Lantern](https://github.com/IlyaKhalafi/CircuitLantern) - A local web app for transformer activation tracing, causal interventions, and sparse autoencoder experiments.
+1. [PTS](https://github.com/codelion/pts) - Pivotal Token Search: finds the tokens, sentences and mid-layer concepts that change a model's chance of solving a task, and exports them as DPO pairs and steering vectors.
 
 ---
 
