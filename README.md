@@ -42,6 +42,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [Circuit Lantern](https://github.com/IlyaKhalafi/CircuitLantern) - A local web app for transformer activation tracing, causal interventions, and sparse autoencoder experiments.
 1. [PTS](https://github.com/codelion/pts) - Pivotal Token Search: finds the tokens, sentences and mid-layer concepts that change a model's chance of solving a task, and exports them as DPO pairs and steering vectors.
 1. [Neurolume](https://github.com/Yiteng-CHEN/neurolume) - Local app for Apple Silicon (MLX) that shows per-layer activity, a logit lens and per-token confidence while you chat with or fine-tune a model.
+1. [Oumi Weights Lab](https://github.com/oumi-ai/weights-lab) - Agent skill and persistent worker for ablating, editing, and swapping an open LLM's weights, measuring each change's effect on its answers, and undoing it exactly.
 
 ---
 
