@@ -43,6 +43,8 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [PTS](https://github.com/codelion/pts) - Pivotal Token Search: finds the tokens, sentences and mid-layer concepts that change a model's chance of solving a task, and exports them as DPO pairs and steering vectors.
 1. [Neurolume](https://github.com/Yiteng-CHEN/neurolume) - Local app for Apple Silicon (MLX) that shows per-layer activity, a logit lens and per-token confidence while you chat with or fine-tune a model.
 1. [Oumi Weights Lab](https://github.com/oumi-ai/weights-lab) - Agent skill and persistent worker for ablating, editing, and swapping an open LLM's weights, measuring each change's effect on its answers, and undoing it exactly.
+1. [brainscope](https://github.com/moudrkat/brainscope) - OpenAI-compatible server with a live view into any Hugging Face model's residual stream.
+1. [probascope](https://github.com/moudrkat/probascope) - Android app that runs a decision model on the phone and shows where in the layers its answer formed.
 
 ---
 
