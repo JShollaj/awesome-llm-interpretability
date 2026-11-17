@@ -45,6 +45,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [Oumi Weights Lab](https://github.com/oumi-ai/weights-lab) - Agent skill and persistent worker for ablating, editing, and swapping an open LLM's weights, measuring each change's effect on its answers, and undoing it exactly.
 1. [brainscope](https://github.com/moudrkat/brainscope) - OpenAI-compatible server with a live view into any Hugging Face model's residual stream.
 1. [probascope](https://github.com/moudrkat/probascope) - Android app that runs a decision model on the phone and shows where in the layers its answer formed.
+1. [Every Other Token](https://github.com/Mattbusel/Every-Other-Token) - Rust CLI and web UI that shows each streamed token's confidence, perplexity and top alternatives from logprobs (OpenAI, OpenRouter, Ollama or an exact local model), with occlusion attribution of prompt words.
 
 ---
 
