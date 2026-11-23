@@ -1,5 +1,5 @@
 
-# Awesome LLM Interpretability ![](https://github.com/your-username/awesome-llm-interpretability/workflows/Awesome%20Bot/badge.svg)
+# Awesome LLM Interpretability
 
 A curated list of amazingly awesome tools, papers, articles, and communities focused on Large Language Model (LLM) Interpretability.
 
@@ -21,7 +21,6 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [Phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
 1. [Floom](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 1. [Automated Interpretability](https://github.com/openai/automated-interpretability) - Code for automatically generating, simulating, and scoring explanations of neuron behavior.
-1. [Fmr.ai](https://github.com/BizarreCake/fmr.ai) - AI interpretability and explainability platform.
 1. [Attention Analysis](https://github.com/clarkkev/attention-analysis) - Analyzing attention maps from BERT transformer.
 1. [SpellGPT](https://github.com/mwatkins1970/SpellGPT) - Explores GPT-3’s ability to spell own token strings.
 1. [SuperICL](https://github.com/JetRunner/SuperICL) - Super In-Context Learning code which allows black-box LLMs to work with locally fine-tuned smaller models.
@@ -35,7 +34,7 @@ A curated list of amazingly awesome tools, papers, articles, and communities foc
 1. [Vanna](https://github.com/vanna-ai/vanna) - Abstractions to use RAG to generate SQL with any LLM
 1. [Copy Suppression](https://copy-suppression.streamlit.app/) - Designed to help explore different prompts for GPT-2 Small, as part of a research project regarding copy-suppression in LLMs.
 1. [TransformerViz](https://transformervis.github.io/transformervis/) - Interative tool to visualize transformer model by its latent space.
-1. [TransformerLens](https://github.com/neelnanda-io/TransformerLens) - A Library for Mechanistic Interpretability of Generative Language Models.
+1. [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - A Library for Mechanistic Interpretability of Generative Language Models.
 1. [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) - A carefully compiled list that summarizes the diverse functions of the attention heads.
 1. [ecco](https://github.com/jalammar/ecco) - A python library for exploring and explaining Natural Language Processing models using interactive visualizations.
 1. [verified-circuits](https://github.com/brian-naughton/verified-circuits) - End-to-end, independently-checkable mechanistic interpretability for a learned tiny transformer (Dyck-1): a Lean 4 proof of circuit↔spec equivalence plus a torch-free interval-arithmetic certificate that the model implements the circuit on every input — a re-verifiable Spec == Circuit == Model over a complete finite task.
